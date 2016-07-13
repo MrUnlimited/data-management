@@ -1,0 +1,140 @@
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Profil Desa dan Kelurahan.exe.config
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.exe
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.xml
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.pdb
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\GeckoFX\Geckofx-Core.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\GeckoFX\Geckofx-Core.pdb
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\GeckoFX\Geckofx-Winforms.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\GeckoFX\Geckofx-Winforms.pdb
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\AccessibleMarshal.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\breakpadinjector.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\crashreporter.exe
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\D3DCompiler_43.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\d3dcompiler_46.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\freebl3.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\gkmedias.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\gmp-fake\1.0\fake.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\IA2Marshal.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\icudt52.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\icuin52.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\icuuc52.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\js.exe
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\libEGL.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\libGLESv2.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\mozalloc.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\mozglue.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\mozjs.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\msvcp100.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\msvcr100.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\nss3.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\nssckbi.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\nssdbm3.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\plugin-container.exe
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\plugin-hang-ui.exe
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\redit.exe
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\sandboxbroker.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\softokn3.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\updater.exe
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\xul.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\xulrunner-stub.exe
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\xulrunner.exe
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\GeckoFX\Geckofx-Core.dll.config
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\crashreporter.ini
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\dependentlibs.list
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\dictionaries\en-US.aff
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\dictionaries\en-US.dic
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\freebl3.chk
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\gmp-fake\1.0\fake.info
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\js-gdb.py
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\LICENSE
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\nssdbm3.chk
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\omni.ja
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\platform.ini
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\precomplete
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\README.xulrunner
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\softokn3.chk
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Profil Desa dan Kelurahan.exe
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Profil Desa dan Kelurahan.pdb
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Profil Desa dan Kelurahan.xml
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Geckofx-Core.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Geckofx-Core.pdb
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.vbprojResolveAssemblyReference.cache
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil_Desa_dan_Kelurahan.Form_PRODESKEL.resources
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil_Desa_dan_Kelurahan.Resources.resources
+C:\Users\Dhesta\Documents\Visual Studio 2010\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.vbproj.GenerateResource.Cache
+D:\Projects\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Profil Desa dan Kelurahan.exe.config
+D:\Projects\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.exe
+D:\Projects\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.xml
+D:\Projects\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.pdb
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Profil Desa dan Kelurahan.exe.config
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.exe
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.xml
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.pdb
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\GeckoFX\Geckofx-Core.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\GeckoFX\Geckofx-Core.pdb
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\GeckoFX\Geckofx-Winforms.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\GeckoFX\Geckofx-Winforms.pdb
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\AccessibleMarshal.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\breakpadinjector.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\crashreporter.exe
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\D3DCompiler_43.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\d3dcompiler_46.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\freebl3.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\gkmedias.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\gmp-fake\1.0\fake.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\IA2Marshal.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\icudt52.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\icuin52.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\icuuc52.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\js.exe
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\libEGL.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\libGLESv2.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\mozalloc.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\mozglue.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\mozjs.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\msvcp100.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\msvcr100.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\nss3.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\nssckbi.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\nssdbm3.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\plugin-container.exe
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\plugin-hang-ui.exe
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\redit.exe
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\sandboxbroker.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\softokn3.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\updater.exe
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\xul.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\xulrunner-stub.exe
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\xulrunner.exe
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\GeckoFX\Geckofx-Core.dll.config
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\crashreporter.ini
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\dependentlibs.list
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\dictionaries\en-US.aff
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\dictionaries\en-US.dic
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\freebl3.chk
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\gmp-fake\1.0\fake.info
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\js-gdb.py
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\LICENSE
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\nssdbm3.chk
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\omni.ja
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\platform.ini
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\precomplete
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\README.xulrunner
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\xulrunner\softokn3.chk
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Profil Desa dan Kelurahan.exe
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Profil Desa dan Kelurahan.pdb
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Profil Desa dan Kelurahan.xml
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Geckofx-Core.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Geckofx-Winforms.dll
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Geckofx-Core.pdb
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\bin\Debug\Geckofx-Winforms.pdb
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.vbprojResolveAssemblyReference.cache
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil_Desa_dan_Kelurahan.Form_PRODESKEL.resources
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil_Desa_dan_Kelurahan.Resources.resources
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.vbproj.GenerateResource.Cache
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan - Copy\Profil Desa dan Kelurahan\bin\Debug\Profil Desa dan Kelurahan.exe.config
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan - Copy\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.exe
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan - Copy\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.xml
+D:\Projects\PRODESKEL\Profil Desa dan Kelurahan - Copy\Profil Desa dan Kelurahan\obj\x86\Debug\Profil Desa dan Kelurahan.pdb
